@@ -103,7 +103,7 @@ function Navbar() {
                 <a href="#">Service</a>
                 <ul class="sub-menu">
                   <li>
-                    <a href="service.html">Service</a>
+                    <a href="/service-laptop">Service Laptop</a>
                   </li>
                   <li>
                     <a href="service-details.html">Service Single</a>
