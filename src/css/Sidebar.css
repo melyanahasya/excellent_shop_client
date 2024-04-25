@@ -1,0 +1,13 @@
+.rotate-icon {
+  transition: transform 0.10s ease;
+}
+
+.rotate-icon.mm-active {
+  transform: rotate(100deg);
+}
+.btn-logout{
+  width: 150px;
+}
+.logout-button{
+  padding-top: 220px;
+}
