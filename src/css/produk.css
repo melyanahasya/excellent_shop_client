@@ -1,0 +1,12 @@
+.produk-container {
+  width: 500px;
+  margin-left: 700px;
+  padding-left: 700px;
+}
+
+.custom-table-width {
+  margin-right: 30px; /* Atur margin kanan untuk menggeser tabel ke kanan */
+margin-left: 280px;}
+.table-responsive{
+    width: 1100px;
+}
